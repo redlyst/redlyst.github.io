@@ -1,1 +1,1 @@
-{"componentChunkName":"component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx","path":"/blog","result":{"data":{"allPost":{"nodes":[]}},"pageContext":{"formatString":"DD.MM.YYYY"}},"staticQueryHashes":["318001574","3787687951","3787687951"]}
+{"componentChunkName":"component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx","path":"/blog","result":{"data":{"allPost":{"nodes":[]}},"pageContext":{"formatString":"DD MMMM YYYY"}},"staticQueryHashes":["318001574","3787687951","3787687951"]}
