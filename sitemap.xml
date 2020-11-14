@@ -4,5 +4,15 @@
 <url> <loc>https://redlyst.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://redlyst.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://redlyst.github.io/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/bg</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/bs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/cp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/ct</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/fl</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/mah</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/mc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/od</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/pli</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://redlyst.github.io/ts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://redlyst.github.io/porto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
