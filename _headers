@@ -155,15 +155,6 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-782d922ea8d4570ee36d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/bs/page-data.json>; rel=preload; as=fetch; crossorigin
-/pli
-  Link: </webpack-runtime-6d53de4825497b12425b.js>; rel=preload; as=script
-  Link: </framework-0e8501c0599d79803b4b.js>; rel=preload; as=script
-  Link: </app-0760325d2e2c4e0b4e97.js>; rel=preload; as=script
-  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-155ffd7f9b3b76bf6517.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-782d922ea8d4570ee36d.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pli/page-data.json>; rel=preload; as=fetch; crossorigin
 /ts
   Link: </webpack-runtime-6d53de4825497b12425b.js>; rel=preload; as=script
   Link: </framework-0e8501c0599d79803b4b.js>; rel=preload; as=script
@@ -173,7 +164,7 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-782d922ea8d4570ee36d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/ts/page-data.json>; rel=preload; as=fetch; crossorigin
-/work-documentation
+/pli
   Link: </webpack-runtime-6d53de4825497b12425b.js>; rel=preload; as=script
   Link: </framework-0e8501c0599d79803b4b.js>; rel=preload; as=script
   Link: </app-0760325d2e2c4e0b4e97.js>; rel=preload; as=script
@@ -181,7 +172,7 @@
   Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-155ffd7f9b3b76bf6517.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-782d922ea8d4570ee36d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/work-documentation/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pli/page-data.json>; rel=preload; as=fetch; crossorigin
 /od
   Link: </webpack-runtime-6d53de4825497b12425b.js>; rel=preload; as=script
   Link: </framework-0e8501c0599d79803b4b.js>; rel=preload; as=script
@@ -200,6 +191,15 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-782d922ea8d4570ee36d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/work-documentation
+  Link: </webpack-runtime-6d53de4825497b12425b.js>; rel=preload; as=script
+  Link: </framework-0e8501c0599d79803b4b.js>; rel=preload; as=script
+  Link: </app-0760325d2e2c4e0b4e97.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-155ffd7f9b3b76bf6517.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-782d922ea8d4570ee36d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/work-documentation/page-data.json>; rel=preload; as=fetch; crossorigin
 /ct
   Link: </webpack-runtime-6d53de4825497b12425b.js>; rel=preload; as=script
   Link: </framework-0e8501c0599d79803b4b.js>; rel=preload; as=script
