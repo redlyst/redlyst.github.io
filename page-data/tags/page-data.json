@@ -1,1 +1,5 @@
-{"componentChunkName":"component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx","path":"/tags","result":{"data":{"allPost":{"group":[{"fieldValue":"Composer","totalCount":1},{"fieldValue":"Jetstream","totalCount":1},{"fieldValue":"Laragon","totalCount":3},{"fieldValue":"Laravel","totalCount":2},{"fieldValue":"Tailwind","totalCount":1},{"fieldValue":"Tutorial","totalCount":3}]}},"pageContext":{}},"staticQueryHashes":["318001574","3787687951","3787687951"]}
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx",
+    "path": "/tags",
+    "result": {"data":{"allPost":{"group":[{"fieldValue":"Apache","totalCount":2},{"fieldValue":"Composer","totalCount":1},{"fieldValue":"Guide","totalCount":5},{"fieldValue":"Homebrew","totalCount":2},{"fieldValue":"Jetstream","totalCount":1},{"fieldValue":"Laragon","totalCount":3},{"fieldValue":"Laravel","totalCount":2},{"fieldValue":"MacOS","totalCount":2},{"fieldValue":"PHP","totalCount":1},{"fieldValue":"Tailwind","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
